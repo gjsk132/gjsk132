@@ -1,4 +1,4 @@
-#GJSK132
+# GJSK132
 <!--
 **gjsk132/gjsk132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Bubble tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjsk_132)](https://solved.ac/gjsk_132)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redish03&layout=compact)](https://github.com/pqr4579/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjsk132&layout=compact)](https://github.com/pqr4579/github-readme-stats)
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Redish03)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gjsk132)](https://github.com/anuraghazra/github-readme-stats)
