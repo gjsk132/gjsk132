@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Baekjoon tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjsk126)](https://solved.ac/gjsk126)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjsk132&layout=compact)](https://github.com/pqr4579/github-readme-stats)
