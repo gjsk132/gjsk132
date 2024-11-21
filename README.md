@@ -6,6 +6,7 @@
 ### Interested in...
 - Game client
 - Android client
+- Personalized Healthcare
 - 3D Modeling & Design
 
 ### Tech
