@@ -1,13 +1,5 @@
 ## gjsk132
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gjsk132"
-  width="600"
-  height="300"
-/>
-</a>
-
 ### Introduction
 끊임없이 새로운 가능성을 탐구하며 도전과 성장을 이어가는 허나영입니다 :)
 
