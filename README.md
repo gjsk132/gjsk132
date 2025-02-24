@@ -4,7 +4,6 @@
 끊임없이 새로운 가능성을 탐구하며 도전과 성장을 이어가는 허나영입니다 :)
 
 ### Interested in...
-- Game client
 - Android client
 - Personalized Healthcare
 - 3D Modeling & Design
