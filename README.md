@@ -7,6 +7,7 @@
 - Android client
 - Personalized Healthcare
 - 3D Modeling & Design
+- game client
 
 ### Tech
 <div align=left>
