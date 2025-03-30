@@ -3,13 +3,6 @@
 ### Introduction
 끊임없이 새로운 가능성을 탐구하며 도전과 성장을 이어가는 허나영입니다 :)
 
-### Certificated
-- 2023.08.31 바이오헬스 산업활성화를 위한 AI맞춤형 전문교육 수료
-- 2024.03.23 데이터 분석 준전문가 ADsP 자격증 취득
-- 2025.01.27 프로그래머스 인증시험 PCCP(Programmers Certified Coding Profeesional) Python3 Lv.5 자격 취득
-- 2025.02.28 인프런 AI 커리어스쿨 수료
-
-  
 ### Interested in...
 - Android client
 - Personalized Healthcare
