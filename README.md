@@ -41,14 +41,3 @@
 
 ### More
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjsk126)](https://solved.ac/gjsk126)
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gjsk132&show_icons=true&hide_border=true" align="center"/>
-    </td>
-    <td width="50%">
-      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gjsk132&layout=compact&hide_border=true&langs_count=6&hide=html,css,svelte,vue,shell" align="center"/>
-    </td>
-  </tr>
-</table>
