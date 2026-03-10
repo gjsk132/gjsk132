@@ -1,7 +1,7 @@
 ## gjsk132
 
 ### Introduction
-끊임없이 새로운 가능성을 탐구하며 도전과 성장을 이어가는 허나영입니다 :)
+허나영입니다.
 
 ### Interested in...
 - Android client
