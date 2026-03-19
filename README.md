@@ -1,7 +1,7 @@
 ## gjsk132
 
 ### Introduction
-끊임없이 새로운 가능성을 탐구하며 도전하는 안드로이드 개발자 허나영입니다.
+끊임없이 새로운 가능성을 탐구하며 도전하는 개발자 허나영입니다.
 
 ### Interested in...
 - Android client
