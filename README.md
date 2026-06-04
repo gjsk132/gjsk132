@@ -36,4 +36,7 @@
 
 
 ### More
+
+[블로그 보러가기](https://gjsk132.github.io)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjsk126)](https://solved.ac/gjsk126)
